@@ -1,6 +1,4 @@
-﻿
-/bin/Debug/net8.0
-/obj/Debug/net8.0/ref
-/obj/Debug/net8.0/refint
-/obj/Debug/net8.0
+﻿/bin
 /obj
+
+/.vs
